@@ -134,11 +134,11 @@ TrainFinderApplication.java
 
 ### 🔍 API Response (Postman)
 
-![Postman API](./images/postman.png)
+![Postman API](./images/ApiImage.png)
 
 ### 📄 Train Details UI
 
-![Train Result](./images/result.png)
+![Train Result](./images/TrainDetaiks.png)
 
 ---
 
@@ -174,9 +174,3 @@ If this project helped you, please give it a **⭐ star** on GitHub!
 
 ---
 
-If you want, I can also create:
-
-✅ Postman documentation section
-✅ API response examples
-✅ Badges (Build Passing, License, Tech Stack, etc.)
-Just tell me!
