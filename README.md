@@ -130,7 +130,7 @@ TrainFinderApplication.java
 
 ### 🌐 Home Page
 
-![Home Page](./FrontendImg/homepage.png)
+![Home Page](./FrontendImg/HomePage.png)
 
 ### 🔍 API Response (Postman)
 
@@ -138,7 +138,7 @@ TrainFinderApplication.java
 
 ### 📄 Train Details UI
 
-![Train Result](./FrontendImg/TrainDetaiks.png)
+![Train Result](./FrontendImg/TrainDetails.png)
 
 ---
 
@@ -173,5 +173,6 @@ TrainFinderApplication.java
 If this project helped you, please give it a **⭐ star** on GitHub!
 
 ---
+
 
 
